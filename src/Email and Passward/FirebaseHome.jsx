@@ -1,7 +1,7 @@
 import React from 'react'
 import Login from './Login'
 import Signup from './Signup'
-import { BrowserRouter, Outlet, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, Route, Routes} from 'react-router-dom'
 import Profile from './Profile'
 import Privatelogin from './Privatelogin'
 

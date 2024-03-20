@@ -55,7 +55,7 @@ function Signup() {
           }}
         />
         <input
-          type="passward"
+          type="password"
           name=""
           id=""
           placeholder="enter your passward"
